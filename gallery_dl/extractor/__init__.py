@@ -264,6 +264,7 @@ modules = [
     "noop",
     "ytdl",
     "generic",
+    "rsshub",
 ]
 
 
